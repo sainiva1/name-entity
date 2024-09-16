@@ -1,0 +1,6 @@
+This performance of the NER model is perfect, since precision, recall, and F1 values are 1.0000. 
+Precision with this value means all of the predicted entities were correct, while recall means that 
+the model found all actual entities in the text. The F1 score, being a balance of precision and recall,
+also being 1.0000, does demonstrate perfect performance. It means that the model found all the entities
+without making any mistakes, neither missing nor labeling it as another one. In any case, these results 
+in this dataset need further testing for being extended to a more general assessment.

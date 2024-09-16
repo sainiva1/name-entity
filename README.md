@@ -1,2 +1,2 @@
 # name-entity
-name entity 
+name entity
